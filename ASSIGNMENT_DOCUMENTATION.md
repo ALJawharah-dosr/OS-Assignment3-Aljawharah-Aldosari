@@ -306,7 +306,7 @@ Apply semaphore in runtocomplete
 ## Summary
 
 **Total time spent on assignment**: 
-
+19 hours
 **Key takeaways**: 
 1. Synchronization is necessary to avoid race conditions
 2. Locks and semaphores serve different purposes
