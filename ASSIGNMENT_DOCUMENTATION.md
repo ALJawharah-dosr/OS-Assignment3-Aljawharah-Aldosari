@@ -289,7 +289,7 @@ Operating systems scheduling processes on CPU, where only one process can use th
 ## Part 6: GitHub Repository Information
 
 **Repository URL**: 
-
+https://github.com/ALJawharah-dosr/OS-Assignment3-Aljawharah-Aldosari/tree/main
 **Number of commits**: 
 8
 **Commit messages**: 
