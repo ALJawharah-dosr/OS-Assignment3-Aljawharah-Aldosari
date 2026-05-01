@@ -291,13 +291,16 @@ Operating systems scheduling processes on CPU, where only one process can use th
 **Repository URL**: 
 
 **Number of commits**: 
-
+8
 **Commit messages**: 
-1. 
-2. 
-3. 
-4. 
-
+add my id
+Add synchronization mechanism using ReentrantLock
+Add synchronization mechanism using semaphore
+Protect shared counters
+protect shared variable completecount usingreentrantlock
+protect log ex
+use semaphore to control cpu
+Apply semaphore in runtocomplete
 ---
 
 ## Summary
